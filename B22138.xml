@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the enabling the committees herein named to put in execution severall ordinances of Parliament in the counties of Wilts, Dorset, Somerset, Devon and Cornwall, the cities of Bristoll and Exeter, and the town and county of Poole.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22138</idno><idno type="EEBO-CITATION">12098981</idno>
+  <idno type="VID">196780</idno>
+  <idno type="EEBO-PROQUEST">2240952548</idno>
+  
+            <idno type="STC">Wing E1971</idno>
+            <idno type="OCLC">12098981</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E54, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the enabling the committees herein named to put in execution severall ordinances of Parliament in the counties of Wilts, Dorset, Somerset, Devon and Cornwall, the cities of Bristoll and Exeter, and the town and county of Poole.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 6, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196780:1"/>
+            <pb facs="tcp:196780:1"/>
+            <p> AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, For the enabling the <hi>Committees</hi> herein named, to put in Execution severall Ordi<g ref="char:EOLhyphen"/>nances of Parliament in the Counties OF <hi>Wilts, Dorset, Somerset, Devon</hi> and <hi>Cornwall,</hi> the Cities of <hi>Bristoll</hi> and <hi>Exeter,</hi> and the Town and County of <hi>Poole.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="license">
+                        <p> </p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Die Lunae,</hi> 1. <hi>Julii,</hi> 1644.</date>
+                           </dateline>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be sold at his shop in the Middle-Temple. Iuly 6. 1644.</p>
+            <pb facs="tcp:196780:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:196780:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae,</hi> 1. <hi>Julii,</hi> 1644.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Ordinance of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in Parliament assembled, for the enabling the Committees herein na<g ref="char:EOLhyphen"/>med, to put in execution severall Or<g ref="char:EOLhyphen"/>dinances of Parliament in the coun<g ref="char:EOLhyphen"/>ties of <hi>Wilts, Dorset, Somerset, De<g ref="char:EOLhyphen"/>von</hi> and <hi>Cornwall,</hi> the cities of <hi>Bristoll</hi> and <hi>Exeter,</hi> and the town and coun<g ref="char:EOLhyphen"/>ty of <hi>Poole.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Lords and Commons taking into their con<g ref="char:EOLhyphen"/>sideration the necessity of speedy raising Mo<g ref="char:EOLhyphen"/>neys for the maintenance of the Army, and Garrisons that are or shall hereafter be in the Counties of</hi> Wilts, Dorset, Somerset, De<g ref="char:EOLhyphen"/>von <hi>and</hi> Cornwall, <hi>together with the Cities of</hi> Bristoll <hi>and</hi> Exeter, <hi>and the Town and County of</hi> Pool, <hi>And for the reducing of the said Counties to the obedience</hi>
+               <pb n="2" facs="tcp:196780:3"/>
+               <hi>of the King and Parliament, Do Ordain and appoint the Persons hereafter named, to be Committees for the said se<g ref="char:EOLhyphen"/>verall and respective Counties and Places; That is to say,</hi>
+            </p>
+            <p>FOr the county of <hi>Wilts,</hi> Philip Earl of <note place="margin">Wilts.</note> Pembroke and Mountgomery, Denzill Holles Esquire, Sir Edward Hungerford Knight of the Bath, Sir Nevill Poole, and Sir Edward Baynton, Knights; Alexander Pop<g ref="char:EOLhyphen"/>ham, Edward Baynton, Edward Poole, Wal<g ref="char:EOLhyphen"/>ter Long, Robert Jennor, Robert Nicholas, Edward Ash, Thomas Hodges, Philip Smith, John Ash, Esquires; Sir John Danvers Knight Edmond Ludlow, Alexander Thi<g ref="char:EOLhyphen"/>stlethwayte <hi>Iunior,</hi> Edward Goddard, Thomas Bennet of Norton, Edmond Ludlow <hi>Senior.</hi> Walton Poole, John Goddard, Henry Hun<g ref="char:EOLhyphen"/>gerford, Robert Hippisley and Edmond Warnford, Esquires; Robert Long of South<g ref="char:EOLhyphen"/>wick, Thomas Goddard, William Sadler, John Read of Porton, Edward Stoaks, Hum<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey Ditton, John Dove, Richard Hill, Ro<g ref="char:EOLhyphen"/>bert Brown, Richard Talboys, Thomas Bai<g ref="char:EOLhyphen"/>ly and William Jessy.</p>
+            <p>For the county of <hi>Dorset;</hi> William Earl of <note place="margin">Dorset.</note> Salisbury, Thomas Earl of Elgin, Denzill
+<pb n="3" facs="tcp:196780:3"/> Holles Esquire; Sir Walter Erle Knight, John Brown, Edmond Prideaux, Thomas Erle, Thomas Moore, John Trenchard, Dennis Bond, William Whittaker, Roger Hill, Giles Greene, Richard Rose, Esquires; Sir Thomas Trenchard Knight, John Fitz-James <hi>Iunior;</hi> John Bingham, William Savage, Robert But<g ref="char:EOLhyphen"/>ler, Richard Bradrip, William Sydenham <hi>ju<g ref="char:EOLhyphen"/>nior,</hi> Francis Chettle, Thomas Crompton, Elias Bond, Bartholomew Hall, Thomas Ceely, Robert Rowe, Henry Henley and John Hill, Esquires; William Kerridge and Richard Bury, Gent.</p>
+            <p>For the Town and County of Poole; John <note place="margin">Poole.</note> Bingham Esq; Governor; George Skut <hi>senior;</hi> Aaron Durell, Haviland Healey, William Skut and John Mellmoth.</p>
+            <p>For the county of <hi>Somerset;</hi> Sir Edward <note place="margin">Somerset.</note> Hungerford, Knight of the Bath, Sir Francis Popham Knight, Alexander Popham, John Pyne, Hugh Rogers, John Ash, Roger Hill of Pounsford and George Searle, Esquire; Sir Thomas Wroth, Sir John Horner, Sir Ro<g ref="char:EOLhyphen"/>bert Gorges, Knights; Edw: Popham, Samuel Horner, Henry Roles, Sergeant at Law, Wil<g ref="char:EOLhyphen"/>liam
+<pb n="4" facs="tcp:196780:4"/> Strode, Clement Walker, James Ash, John Preston, Thomas Hodges, Henry Hen<g ref="char:EOLhyphen"/>ley, William Long, Henry Bonner, Richard Hippisley, Jonathan Pits, Robert Paradine, Thomas Hippesley, Alexander Pym, William Pryn, Thomas English, William Caple, John Barnard, John Prickman and Robert Blake, Esquires, John Palmer, Roger Hill of Taun<g ref="char:EOLhyphen"/>ton, Nicholas Saunders, Richard Trivilian, Lyslebone Long, Matthew Clift of Bath, Ro<g ref="char:EOLhyphen"/>bert Morgan of Wells, and Christopher Pet<g ref="char:EOLhyphen"/>tard Gent. Edward Ceely, Thomas Francis, and Henry Minterne.</p>
+            <p>And for the City of <hi>Bristoll;</hi> Richard Vic<g ref="char:EOLhyphen"/>caris, <note place="margin">Bristoll.</note> Luke Hodges, John Birch, Henry Gibs, James Powell, Edward Tyson and Robert Aldworth.</p>
+            <p>And for the County of <hi>Devon;</hi> Sir John <note place="margin">Devon.</note> Bamfield Baronet, Sir John Speckot, Sir Ri<g ref="char:EOLhyphen"/>chard Strode, Sir Edmond Fowell, Sir Shilston Calmadry, Sir Henry Rosewell and Sir John Young, Knights; Walter Young, Edmond Prideaux, John Maynard, John Harris of Karne, William Strode, Francis Rowse, John Waddon, John Rolles, William Fry, John
+<pb n="5" facs="tcp:196780:4"/> Crocker, Robert Savery, Elias Grymes, Ar<g ref="char:EOLhyphen"/>thur Upton, Richard Gilbert, John Lutterell, Richard Mallack <hi>senior</hi> of Axmouth, Thomas Crew, Charles Vaughan, John Ware, Coll: John Beare, Tho: Beare, Henry Polexfin, John Kelly of <hi>Kelly;</hi> John Caws, Major of Plymouth; John Barton of Silverton; John Champneys, Thomas Boone, Philip Harris, Joseph Huntkine, John Marshall, Philip Francis, Thomas Ceely, Richard Evans, Ti<g ref="char:EOLhyphen"/>mothy Alsop, Justinian Peard, Christopher Ceeley.</p>
+            <p>And for the City of <hi>Excester;</hi> Samuel Clark, <note place="margin">Exon.</note> Adam Bennit, John Louering, Richard Cros<g ref="char:EOLhyphen"/>sing <hi>junior;</hi> and Richard Evans.</p>
+            <p>For the County of <hi>Cornwall;</hi> John Lord <note place="margin">Cornwall.</note> Roberts, Francis Buller, Richard Erysey, Tho: Arundell, Francis Godolphin of Treveneage, Anthony Nicholl, George Buller, and John Moyle <hi>junior;</hi> John Elliot, John Seyntaubyn, John Trefusis, John Moyle, John Carter, Nicholas Boscawen, George Kekewich, John Trefusis <hi>junior;</hi> Tho: Gewen, Richard Chiver<g ref="char:EOLhyphen"/>ton, Christopher Worthivall, Antho: Rowse, Nicholas Wadham, Henry Wills, Robert Ben<g ref="char:EOLhyphen"/>net,
+<pb n="6" facs="tcp:196780:5"/> Richard Carver, Edward Elliot, John Martin, Richard Penwaren, William Ceely and Robert Martin.</p>
+            <p>
+               <hi>Which P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsons, or any three of them, are hereby Autho<g ref="char:EOLhyphen"/>rised and appo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nted to put in Execution within their respe<g ref="char:EOLhyphen"/>ctive Counties and Places, these Ordinances following; That is to say, The Ordinance for Administr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the Nat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>nall Covenant, The Ordinance for the Fifth and Twentieth part, The severall Ord<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nances, Orders and Instructions for Sequestrations, And the Ordinance for the Weekly Assess<g ref="char:EOLhyphen"/>ment; Which said Ordinance for the Weekly Assessment shall be put in Execution for three Moneths from the date of this Ordinance; And the said Committees respectively, shall do their utmost for the preservation of the said Coun<g ref="char:EOLhyphen"/>ties from spo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l and plunder, and shall be likewise obedient to such further Instructions as from time to time they shall receive from both Houses of Parliament. And be it further Ordained, That all Power formerly given by any Order or Ordinance of Parliament to any person or persons, other then such as are named in this Ordinance for the putting in Execution any of the forenamed Ordinances in these Counties and places, is hereby repealed and made voyd.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
